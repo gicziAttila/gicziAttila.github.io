@@ -12,6 +12,17 @@ nav a{
     margin: 15px;
     text-decoration: none;
 }
+
+.kave:hover {
+    box-shadow: 0px 0px 5px #1f5b25;
+}
+
+.kave h2 {
+    font-size: 1rem;
+    text-align: center;
+    margin: 1rem;
+    margin-bottom: 1rem;
+}
 nav a :hover{
     color: #fff;
     text-decoration: none;
