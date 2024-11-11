@@ -1,0 +1,14 @@
+body {
+    background-color: #fbefbd;
+}
+
+nav{
+    background-color: #1f5b25;
+    padding: 15px;
+}
+
+nav a{
+    color: #fff;
+    margin: 15px;
+    text-decoration: none;
+}
